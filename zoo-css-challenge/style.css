@@ -118,7 +118,7 @@ footer {
 }
 
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  /*vertical-align: bottom;*/
   border-color: #56e39f;
 }
 
