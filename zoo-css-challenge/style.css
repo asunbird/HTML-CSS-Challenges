@@ -144,6 +144,9 @@ footer {
   color: #F4743B;
 }
 
+.news h2 {
+  text-align: center;
+}
 
 .card {
   display: inline-block;
