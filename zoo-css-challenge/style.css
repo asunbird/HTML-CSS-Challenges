@@ -220,6 +220,10 @@ footer {
   color: #ff7f11;
 }
 
+.membership p {
+  max-width: 700px;
+}
+
 /*Programs*/
 
 .programs .card {
