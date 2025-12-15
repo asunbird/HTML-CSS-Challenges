@@ -195,6 +195,12 @@ footer {
   margin-bottom: 1em;
 }
 
+/* change the font-size of a button in education section */
+.education-container button {
+  font-size: 150%;
+}
+
+
 /*Membership*/
 
 .membership {
