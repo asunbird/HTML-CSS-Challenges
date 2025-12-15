@@ -79,6 +79,10 @@ footer {
   background-color: white;
 }
 
+.text-spacing {
+  line-height: 1.8em;
+}
+
 #logo {
   border: 0px;
 }
