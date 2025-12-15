@@ -227,7 +227,8 @@ footer {
 }
 
 /*Programs*/
-
-.programs .card {
+/* commenting out to fix the layout issue with cards stacking vertically*/
+/*.programs .card {
   display: block;
 }
+*/
