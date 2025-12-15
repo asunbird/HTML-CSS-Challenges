@@ -200,6 +200,9 @@ footer {
   font-size: 150%;
 }
 
+.education-container button:hover {
+  background-color: #6742ee;
+}
 
 /*Membership*/
 
