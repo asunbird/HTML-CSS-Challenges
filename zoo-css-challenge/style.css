@@ -78,6 +78,10 @@ footer {
 .introduction {
 }
 
+#logo {
+  border: 0px;
+}
+
 #badge {
   height: 120px;
   width: 120px;
