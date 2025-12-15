@@ -133,11 +133,20 @@ footer {
 
 .tigers {
   background-color: #0b3c49;
-  color: #f0e100;
+  color: #f9d077;
 }
 
 .tigers h2, h3 {
   color: #ffc261;
+}
+
+.panda {
+  background-color: #f2fcf5;
+  color: #012c45;
+}
+
+.panda h2, h3 {
+  color: #ff6f61;
 }
 
 .giraffe {
