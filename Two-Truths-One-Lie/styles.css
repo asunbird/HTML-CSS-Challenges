@@ -40,3 +40,9 @@ body {
   width: 100%;
   margin: 20px auto;
 }
+
+img {
+  max-width: 120px;
+  height: auto;
+}
+
