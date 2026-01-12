@@ -31,3 +31,8 @@
 body {
   font: 100% "Poppins", sans-serif;
 }
+
+.site-header {
+  text-align: center;
+  margin: 20px auto;
+}
