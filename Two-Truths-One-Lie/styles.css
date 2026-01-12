@@ -60,6 +60,12 @@ img {
   margin: 10px;
 }
 
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 footer {
   text-align: center;
   margin: 20px auto;
