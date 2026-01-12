@@ -44,5 +44,11 @@ body {
 img {
   max-width: 120px;
   height: auto;
+  margin: 20px;
 }
 
+.media-object {
+  display: flex;
+  align-items: center;
+  
+}
