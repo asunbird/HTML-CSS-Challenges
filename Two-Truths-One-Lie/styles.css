@@ -49,6 +49,19 @@ img {
 
 .media-object {
   display: flex;
-  align-items: center;
-  
+  align-items: center; 
+}
+
+.flex-item {
+  display: inline-block;
+  background-color: rgb(227, 236, 212);
+  width: 30%;
+  min-width: 300px;
+  margin: 10px;
+}
+
+footer {
+  text-align: center;
+  margin: 20px auto;
+  font-size: 0.8em;
 }
