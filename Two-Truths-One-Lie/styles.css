@@ -30,6 +30,7 @@
 
 body {
   font: 100% "Poppins", sans-serif;
+  font-size: 0.7em;
   display: block;
   background-color: rgb(179, 199, 158);
 }
