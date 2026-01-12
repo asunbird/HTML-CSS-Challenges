@@ -31,6 +31,7 @@
 body {
   font: 100% "Poppins", sans-serif;
   display: block;
+  background-color: rgb(103, 169, 106);
 }
 
 .site-header {
