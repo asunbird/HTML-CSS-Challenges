@@ -30,9 +30,11 @@
 
 body {
   font: 100% "Poppins", sans-serif;
+  display: block;
 }
 
 .site-header {
   text-align: center;
+  width: 100%;
   margin: 20px auto;
 }
