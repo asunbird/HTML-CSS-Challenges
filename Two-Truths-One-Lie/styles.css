@@ -58,7 +58,7 @@ img {
   background-color: rgb(227, 236, 212);
   width: 30%;
   min-width: 300px;
-  margin: 10px;
+  margin: 4vw;
 }
 
 .flex-container {
@@ -66,6 +66,7 @@ img {
   justify-content: center;
   flex-wrap: wrap;
 }
+
 
 footer {
   text-align: center;
