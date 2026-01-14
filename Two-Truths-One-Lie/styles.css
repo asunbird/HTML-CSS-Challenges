@@ -28,8 +28,10 @@
 * take a screenshot at laptop and Moto G4 device sizes in Devtools
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
-  font: 100% "Poppins", sans-serif;
+  font: 100% "Poppins", "Montserrat", sans-serif;
   font-size: 0.7em;
   line-height: 1.5em;
   display: block;
@@ -94,6 +96,7 @@ footer {
     display: block;
     width: 80%;
     margin: 10px;
+}
 }
 
 @media (min-width: 641px) and (max-width: 1024px) {
