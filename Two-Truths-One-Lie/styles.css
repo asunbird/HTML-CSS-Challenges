@@ -56,7 +56,7 @@ img {
 
 .media-object {
   display: flex;
-  align-items: center; 
+  align-items: center;
 }
 
 .flex-item {
@@ -65,6 +65,7 @@ img {
   width: 30%;
   min-width: 300px;
   margin: 4vw;
+  padding: 1vw;
 }
 
 .flex-container {
