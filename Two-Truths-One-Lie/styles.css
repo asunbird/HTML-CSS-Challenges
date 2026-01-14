@@ -97,7 +97,13 @@ footer {
     display: block;
     width: 80%;
     margin: 10px;
-}
+ }
+ /* Styles for when the device is in Landscape Orientation */
+   @media screen and (orientation: landscape) {
+     .flex-container {
+       flex-direction: row; /* Example: adjust layout direction */
+     }
+    }
 }
 
 @media (min-width: 641px) and (max-width: 1024px) {
