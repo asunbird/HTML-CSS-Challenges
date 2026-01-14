@@ -100,8 +100,8 @@ footer {
  }
  /* Styles for when the device is in Landscape Orientation */
    @media screen and (orientation: landscape) {
-     .flex-container {
-       flex-direction: row; /* Example: adjust layout direction */
+     .flex-item {
+       display: inline-block;
      }
     }
 }
